@@ -12,3 +12,7 @@ test made to merge on local
 ### test command rebase
 
 `git pull --rebase `
+
+### Resolve conflicts!
+
+malice line
