@@ -12,3 +12,7 @@ test made to merge on local
 ### test command rebase
 
 `git pull --rebase `
+
+### malicious local
+
+malicious local text to conflict with remote repo
