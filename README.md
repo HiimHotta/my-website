@@ -27,7 +27,7 @@ command `tag`, to delete use:
 
 or
 
-`git tag -d :tag_name_remote`
+`git push origin :tag_name_remote`
 
 to push tag
 
