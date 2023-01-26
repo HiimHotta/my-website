@@ -13,6 +13,8 @@ test made to merge on local
 
 `git pull --rebase `
 
-### malicious local
+### Resolve conflicts!
 
-malicious local text to conflict with remote repo
+`git mergetool`
+
+remember to install p4merge or another program to do that
