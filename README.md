@@ -18,3 +18,17 @@ test made to merge on local
 `git mergetool`
 
 remember to install p4merge or another program to do that
+
+### tag and releases
+
+command `tag`, to delete use:
+
+`git tag -d tag_name`
+
+or
+
+`git tag -d :tag_name_remote`
+
+to push tag
+
+`git push --tags`
